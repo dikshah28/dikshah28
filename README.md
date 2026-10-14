@@ -110,8 +110,6 @@ I'm always happy to connect with fellow developers, exchange ideas, and explore 
 
 ---
 
-### ✨ A little about my approach
 
-> Learn continuously. Build consistently. Improve with every project.
 
 Thanks for visiting my profile! Feel free to explore my repositories and follow my journey as I grow as a developer. 🚀
