@@ -1,6 +1,6 @@
 # diksha
 first github repository
-# Hey there, I'm Diksha Shah! 👋
+# Hey there, I'm Diksha Shah! 
 
 ### 💻 Computer Engineering Student | Aspiring Software Developer
 
