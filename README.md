@@ -104,9 +104,9 @@ A recipe management application focused on organizing and discovering recipes.
 
 I'm always happy to connect with fellow developers, exchange ideas, and explore opportunities to build something interesting together.
 
-- 💼 LinkedIn: [Connect with me](YOUR_LINKEDIN_URL)
-- 📧 Email: [YOUR_EMAIL](mailto:YOUR_EMAIL)
-- 🐙 GitHub: [Explore my repositories](https://github.com/YOUR_GITHUB_USERNAME)
+- 💼 LinkedIn: www.linkedin.com/in/diksha-shah-188517364
+- 📧 Email: dikshah004@gmail.com
+- 🐙 GitHub: [Explore my repositories](https://github.com/dikshah28)
 
 ---
 
